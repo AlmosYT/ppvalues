@@ -21,7 +21,7 @@ questions = [
         "question": "The current moderation team should be replaced.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
