@@ -11,7 +11,16 @@ questions = [
     {
         "question": "The point of PixelPlace is to conquer.",
         "effect": {
-            "econ": 10,
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+        {
+        "question": "The current moderation team should be replaced.",
+        "effect": {
+            "econ": 0,
             "dipl": 0,
             "govt": 0,
             "scty": 0
