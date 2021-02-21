@@ -120,7 +120,7 @@ questions = [
         "question": "We should stick to our old rules instead of making more confusing ones.",
         "effect": {
             "econ": -10,
-            "dipl": 00,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
@@ -135,19 +135,10 @@ questions = [
         }
     },
             {
-        "question": "The current moderation team should be replaced.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-            {
         "question": "The mods should be chosen by the mod team instead of the playerbase, because the mods are more experienced.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
+            "econ": -5,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
@@ -155,8 +146,8 @@ questions = [
             {
         "question": "PixelPlace is a P2W game.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
+            "econ": -5,
+            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
@@ -246,7 +237,7 @@ questions = [
         "question": "I've witnessed someone break a rule, and I didn't report them because they were my ally/friend.",
         "effect": {
             "econ": -5,
-            "dipl": -5,
+            "dipl": 0,
             "govt": -5,
             "scty": 0
         }
