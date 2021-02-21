@@ -108,7 +108,7 @@ questions = [
         }
     },
             {
-        "question": "I believe I have been banned unfairly in the past.",
+        "question": "I believe I have been banned unfairly in the past, even tough the mods didn't acknowledge it.",
         "effect": {
             "econ": 0,
             "dipl": 10,
