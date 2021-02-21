@@ -242,4 +242,22 @@ questions = [
             "scty": 0
         }
     }
+                {
+        "question": "Players who don't like MVP rules should just go to PWW.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    }
+                {
+        "question": "Botters should just be permanently banned.",
+        "effect": {
+            "econ": 5,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    }
 ];
