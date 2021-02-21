@@ -38,8 +38,8 @@ ideologies = [
         {
         "name": "Anti-Mod Reformist",
         "stats": {
-            "econ": 80,
-            "dipl": 30,
+            "econ": 30,
+            "dipl": 80,
             "govt": 50,
             "scty": 50
         }
