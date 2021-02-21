@@ -29,7 +29,7 @@ ideologies = [
         {
         "name": "Pro-Mod Conservative",
         "stats": {
-            "econ": 80,
+            "econ": 30,
             "dipl": 80,
             "govt": 50,
             "scty": 50
@@ -38,7 +38,7 @@ ideologies = [
         {
         "name": "Anti-Mod Reformist",
         "stats": {
-            "econ": 30,
+            "econ": 80,
             "dipl": 30,
             "govt": 50,
             "scty": 50
@@ -47,7 +47,7 @@ ideologies = [
         {
         "name": "Anti-Mod Conservative",
         "stats": {
-            "econ": 80,
+            "econ": 30,
             "dipl": 30,
             "govt": 50,
             "scty": 50
@@ -56,8 +56,26 @@ ideologies = [
         {
         "name": "NoName1",
         "stats": {
-            "econ": 50,
-            "dipl": 100,
+            "econ": 90,
+            "dipl": 0,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Slight Reformist",
+        "stats": {
+            "econ": 65,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Slight Conservative",
+        "stats": {
+            "econ": 40,
+            "dipl": 50,
             "govt": 50,
             "scty": 50
         }
