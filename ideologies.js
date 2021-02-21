@@ -35,4 +35,31 @@ ideologies = [
             "scty": 50
         }
     },
+        {
+        "name": "Anti-Mod Reformist",
+        "stats": {
+            "econ": 30,
+            "dipl": 30,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+        {
+        "name": "Anti-Mod Conservative",
+        "stats": {
+            "econ": 80,
+            "dipl": 30,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+        {
+        "name": "NoName1",
+        "stats": {
+            "econ": 50,
+            "dipl": 0,
+            "govt": 50,
+            "scty": 50
+        }
+    },
 ];
