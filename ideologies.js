@@ -20,17 +20,17 @@ ideologies = [
         {
         "name": "Pro-Mod Liberal",
         "stats": {
-            "econ": 50,
-            "dipl": 80,
-            "govt": 60,
+            "econ": 20,
+            "dipl": 30,
+            "govt": 40,
             "scty": 50
         }
     },
         {
         "name": "Pro-Mod Conservative",
         "stats": {
-            "econ": 30,
-            "dipl": 80,
+            "econ": 70,
+            "dipl": 30,
             "govt": 50,
             "scty": 50
         }
@@ -47,8 +47,8 @@ ideologies = [
         {
         "name": "Anti-Mod Conservative",
         "stats": {
-            "econ": 30,
-            "dipl": 30,
+            "econ": 80,
+            "dipl": 80,
             "govt": 50,
             "scty": 50
         }
