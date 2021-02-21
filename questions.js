@@ -21,7 +21,7 @@ questions = [
         "question": "The current moderation team should be replaced.",
         "effect": {
             "econ": 5,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -39,7 +39,7 @@ questions = [
         "question": "The moderation team of PixelPlace isn't biased.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -111,7 +111,7 @@ questions = [
         "question": "I believe I have been banned unfairly in the past.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -219,7 +219,7 @@ questions = [
         "question": "I trust in the moderator team.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
