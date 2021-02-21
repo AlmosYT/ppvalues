@@ -268,5 +268,14 @@ questions = [
             "govt": 5,
             "scty": 15
         }
+    },
+                    {
+        "question": "You made it to the end! This test is kinda short, if you want more questions to be added, please send your ideas on Discord to Almos#0001. Thanks!",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
     }
 ];
