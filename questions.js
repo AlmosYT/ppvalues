@@ -250,7 +250,7 @@ questions = [
             "govt": 5,
             "scty": 0
         }
-    }
+    },
                 {
         "question": "Botters should just be permanently banned.",
         "effect": {
