@@ -1,11 +1,38 @@
 ideologies = [
     {
-        "name": "Test Ideology",
+        "name": "Centralist Nerd",
         "stats": {
-            "econ": 100,
+            "econ": 50,
             "dipl": 50,
-            "govt": 100,
-            "scty": 90
+            "govt": 50,
+            "scty": 50
+        }
+    },
+        {
+        "name": "Probably a TURK",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+        {
+        "name": "Pro-Mod Liberal",
+        "stats": {
+            "econ": 50,
+            "dipl": 80,
+            "govt": 60,
+            "scty": 50
+        }
+    },
+        {
+        "name": "Pro-Mod Conservative",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 50,
+            "scty": 50
         }
     },
 ];
