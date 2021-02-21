@@ -2,9 +2,9 @@ questions = [
     {
         "question": "Botting is unfair to regular players and shouldn't be allowed on MVP.",
         "effect": {
-            "econ": -5,
+            "econ": 5,
             "dipl": 0,
-            "govt": -10,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -14,13 +14,13 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 10
         }
     },
         {
         "question": "The current moderation team should be replaced.",
         "effect": {
-            "econ": 5,
+            "econ": -5,
             "dipl": 10,
             "govt": 0,
             "scty": 0
@@ -31,7 +31,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -50,7 +50,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 10
         }
     },
             {
@@ -58,7 +58,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -67,8 +67,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
-            "scty": -5
+            "govt": 5,
+            "scty": 5
         }
     },
             {
@@ -76,7 +76,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": 5,
             "scty": 0
         }
     },
@@ -86,25 +86,25 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
             {
         "question": "The PixelPlace Parliament is useful.",
         "effect": {
-            "econ": 10,
+            "econ": -10,
             "dipl": 0,
-            "govt": 10,
+            "govt": -10,
             "scty": 0
         }
     },
             {
         "question": "A global alliance, like UPF, should be created.",
         "effect": {
-            "econ": 5,
+            "econ": -5,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
             {
@@ -119,7 +119,7 @@ questions = [
             {
         "question": "We should stick to our old rules instead of making more confusing ones.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -130,14 +130,14 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 10,
             "scty": 0
         }
     },
             {
         "question": "The mods should be chosen by the mod team instead of the playerbase, because the mods are more experienced.",
         "effect": {
-            "econ": -5,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -146,7 +146,7 @@ questions = [
             {
         "question": "PixelPlace is a P2W game.",
         "effect": {
-            "econ": -5,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -155,9 +155,9 @@ questions = [
             {
         "question": "Dotting is just another form of attacking, which shouldn't be banned.",
         "effect": {
-            "econ": 5,
+            "econ": -5,
             "dipl": 0,
-            "govt": 5,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -167,33 +167,33 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 10
         }
     },
             {
         "question": "An MVP United Nations would be useless.",
         "effect": {
-            "econ": -5,
+            "econ": 5,
             "dipl": 0,
-            "govt": -10,
-            "scty": -5
+            "govt": 10,
+            "scty": 5
         }
     },
             {
         "question": "Racism is acceptable in our community.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
-            "govt": -10,
-            "scty": -5
+            "govt": 10,
+            "scty": 5
         }
     },
             {
         "question": "Raids are inherently good for the community.",
         "effect": {
-            "econ": 10,
+            "econ": -10,
             "dipl": 0,
-            "govt": 5,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -203,16 +203,16 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
             {
         "question": "Multi-guilding doesn't work.",
         "effect": {
-            "econ": -5,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": 5
         }
     },
             {
@@ -227,7 +227,7 @@ questions = [
             {
         "question": "MVP was better when it had less players.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -236,9 +236,9 @@ questions = [
             {
         "question": "I've witnessed someone break a rule, and I didn't report them because they were my ally/friend.",
         "effect": {
-            "econ": -5,
+            "econ": 5,
             "dipl": 0,
-            "govt": -5,
+            "govt": 5,
             "scty": 0
         }
     }
