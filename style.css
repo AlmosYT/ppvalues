@@ -140,12 +140,12 @@ div.text-wrapper {
     display: inline-block;
 }
 div.equality {
-    background-color: #f44336;
+    background-color: #4ac34a;
     text-align: left;
     border-right-style: solid;
 }
 div.wealth {
-    background-color: #00897b;
+    background-color: #4a64c3;
     text-align: right;
     border-left-style: solid;
 }
