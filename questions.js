@@ -241,7 +241,7 @@ questions = [
             "govt": 5,
             "scty": 0
         }
-    }
+    },
                 {
         "question": "Players who don't like MVP rules should just go to PWW.",
         "effect": {
@@ -258,6 +258,15 @@ questions = [
             "dipl": 0,
             "govt": 5,
             "scty": 0
+        }
+    },
+                {
+        "question": "I'd rather invade then roleplay.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 15
         }
     }
 ];
